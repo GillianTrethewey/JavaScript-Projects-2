@@ -5,28 +5,6 @@ Issues
 Marketplace
 Explore
  
-@GillianTrethewey 
-GillianTrethewey
-/
-dev30-magic-eight-ball
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-dev30-magic-eight-ball/main.js /
-@GillianTrethewey
-GillianTrethewey Create main.js
-Latest commit 3dfd572 2 days ago
- History
- 1 contributor
-29 lines (24 sloc)  825 Bytes
-   
 let userName = 'Gillian';
 userName ? console.log(`Hello ${userName}`) : console.log(`Hello!`);
 
@@ -56,16 +34,3 @@ if (randomNumber === 0) {
   eightball = 'Signs point to yes';
 }
 console.log(eightball);
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading complete
